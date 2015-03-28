@@ -11,7 +11,7 @@ Main development repository for Application Insights Joomla plugin.
   - Jose Carlos Mendez
   - Jose Rodrigo Gonzalez
   - Josue Mazariegos
-  - Manuel Santizo
+  - Manuel Santizo 
   - Erick Diaz
   - Raul Guerra Gomez
   
